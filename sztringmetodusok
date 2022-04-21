@@ -1,0 +1,149 @@
+capitalize()	
+
+'''
+^Visszaküldi a string fájlt úgy hogy az első betű nagy a többi kicsivel lessz írva^
+'''
+
+swapcase()
+
+'''
+^Visszaküldi a string fájlt úgy hogy a nagybetűkjet kicsivel a kicsiket nagybetűvel írja ki^
+''' 
+
+title()
+
+'''
+^Visszaküldi a string fájlt úgy hogy szavanként az összes első betűt lesz^
+'''
+
+startswith()	
+
+'''
+^Igazat küld ha a string eleje valamilyen értéke van, ha nem akkor hamisat^
+'''
+
+endswith()	
+
+'''
+^Igazat küld ha a string vége valamilyen értéke van, ha nem akkor hamisat^
+'''
+
+find()
+
+'''
+^Megkeresi a karakterláncot egy megadott érték után, és visszaadja a keresés helyét^
+'''
+	
+rfind()	
+
+'''
+^Megkeresi a karakterláncot egy megadott érték után, és visszaadja a keresési hely utolsó helyét^
+'''
+
+index()	
+
+'''
+^Megkeresi a karakterláncot egy megadott érték után, és visszaadja a keresés helyét^
+'''
+
+rindex()	
+
+'''
+^Megkeresi a karakterláncot egy megadott érték után, és visszaadja a keresési hely utolsó helyét^
+'''
+
+isalnum()
+
+'''
+^Igaz értéket ad vissza, ha a karakterlánc minden karaktere alfanumerikus^
+'''
+	
+isalpha()
+
+'''
+^Igaz értéket ad vissza, ha a karakterlánc összes karaktere az ábécében szerepel^
+'''
+	
+isdecimal() 
+
+'''
+^Igaz értéket ad vissza, ha a karakterlánc összes karaktere az ábécében szerepel^
+'''
+
+isdigit()	
+
+'''
+^Igaz értéket ad vissza, ha a karakterlánc minden karaktere számjegy^
+'''
+
+islower()	
+
+'''
+^Igaz értéket ad vissza, ha a karakterlánc összes karaktere kisbetű^
+'''
+
+isnumeric() 
+
+'''
+^Igaz értéket ad vissza, ha a karakterlánc minden karaktere numerikus^
+'''
+
+isspace()	
+
+'''
+^Igaz értéket ad vissza, ha a karakterlánc minden karaktere szóköz^
+'''
+
+istitle()	
+
+'''
+^Igaz értéket ad vissza, ha a karakterlánc követi a cím szabályait^
+'''
+
+isupper()	
+
+'''
+^Igaz értéket ad vissza, ha a karakterlánc minden karaktere nagybetű^
+'''
+
+join() 
+
+'''
+^Az iterálható elemeket karakterláncokká alakítja^
+'''
+
+strip() 
+
+'''
+^A karakterlánc vágott változatát adja vissza^
+'''
+
+lstrip() 
+
+'''
+^A karakterlánc bal oldali vágási változatát adja vissza^
+'''
+
+rstrip() 
+
+'''
+^A karakterlánc jobb oldali vágási változatát adja vissza^
+'''
+
+split() 
+
+'''
+^Felosztja a karakterláncot a megadott elválasztónál, és egy listát ad vissza^
+'''
+
+rsplit() 
+
+'''
+^Felosztja a karakterláncot a megadott elválasztónál, és egy listát ad vissza^
+'''
+
+splitlines()
+
+'''
+^Felosztja a karakterláncot sortöréseknél, és egy listát ad vissza^
+'''
